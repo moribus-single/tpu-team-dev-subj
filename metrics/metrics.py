@@ -5,8 +5,8 @@ PATTERN of any metric:
         'QUERY': 'QUERY TO DATABASE'
     }
 
-Instruction: for adding new one, just copy PATTERN above and paste after existing metrics
-             do not forget to change description and query
+INSTRUCTION: for adding new one, just copy PATTERN above and paste after existing metrics.
+NOTE: do not forget to change description and query.
 """
 
 
